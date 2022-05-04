@@ -1,0 +1,1461 @@
+@media screen and (max-width:1366px){
+    .banner-text {
+        padding-top: 68px;
+    }
+    .banner-text h1 {
+        font-size: 47px;
+        line-height: 52px;
+    }
+    .news-item {
+        padding-top: 83px;
+        padding-bottom: 67px;
+    }
+    .news-item h3{
+        font-size: 26px;
+    }
+    #footer-bg {
+        width: 914px;
+    }
+    #down-arrow {
+        bottom: 32%;
+        width: 40px;
+    }
+    .back-top{
+        right: 40px;
+    }
+    /* ABOUT PAGE */
+    /* OVERVIEW */
+    .mission-01-stat {
+        margin-top: 20px;
+    }
+    .overview-item:nth-child(2) {
+        flex: 0 0 59%;
+        max-width: 59%;
+    }
+    .overview-item p{
+        width: 76%;
+    }
+    .overview-item:last-child img {
+        width: 571px;
+        transform: translate(-261px, 5px);
+    }   
+    .mission-stat-item h5{
+        font-size: 22px;
+    }
+    .mission-stat-item h4{
+        font-size: 39px;
+    }
+    /* MISSION MONITOR */
+    .mission-monitor {
+        padding-top: 86px;
+        padding-bottom: 87px;
+    }
+    /* SPACECRAFT PAGE */
+    /* MOM SPACECRAFT */
+    .moms-item:last-child{
+        flex: 0 0 60%;
+        max-width: 60%;
+    }
+    .moms-item:first-child{
+        flex: 0 0 40%;
+        max-width: 40%;
+    }
+    #space-right {
+        top: 95px;
+        right: -71px;
+        width: 172px;
+    }
+    /* SPACECRAFT NEWS */
+    .space-news-item h3{
+        font-size: 26px;
+    }
+    .space-news-item {
+        padding-top: 83px;
+        padding-bottom: 67px;
+    }
+    /* SPACECRAFT TIMELINE */
+    #round-b-1 {
+        width: 109px;
+        transform: translate(-86px, -13px);
+    }
+    #round-b-2 {
+        width: 109px;
+        transform: translate(-86px, -25px);
+    }
+    #round-b-3 {
+        width: 109px;
+        transform: translate(-86px, -39px);
+    }
+    .time-numb:last-child .timeline-number {
+        transform: translateY(-32px);
+    }
+    .time-numb:nth-child(2) .timeline-number {
+        transform: translateY(-17px);
+    }
+    .timeline-number h3 {
+        font-size: 51px;
+    }
+    .timeline-number {
+        width: 130px;
+        padding: 30px 0px 25px;
+    }
+    #second-t-date {
+        margin-top: -29px;
+    }
+    #third-t-date {
+        margin-top: -28px;
+    }
+    #launch-date {
+        transform: translate(14px, -20px);
+    }
+    #into-mars {
+        transform: translate(6px, -12px);
+    }
+    /* THE MISSION THAT INSPIRED MILLIONS */
+    .inspire {
+        padding-top: 51px;
+        padding-bottom: 0px;
+    }
+    .inspire-text h3 {
+        font-size: 32px;
+    }
+    .inspire-text p{
+        font-size: 15px;
+    }
+    .inspire-text img {
+        margin-top: 18px;
+        width: 48px;
+    }
+    .inspire .my-row {
+        margin-top: 45px;
+    }
+    .inspire-item h4 {
+        font-size: 16px;
+        width: 68%;
+    }
+    .inspire-item button{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width:375px){
+    nav{
+        display: none;
+    }
+    footer nav{
+        display: block;
+    }
+    .banner-text h1 {
+        font-size: 30px;
+        line-height: 42px;
+        width: 100%;
+    }
+    #rover {
+        display: none;
+    }
+    .banner-text input{
+        width: 100%;
+    }
+    .banner-text input.active{
+        width: 100%;
+    }
+    .banner-search-box img {
+        top: 50px;
+        right: 24px;
+        width: 14px;
+    }
+    .banner-search-box.active img{
+        right: 24px;
+    }
+    .banner-text {
+        padding-top: 78px;
+    }
+    .logo img {
+        width: 69px;
+    }
+    .banner-mars{
+        overflow: hidden;
+    }
+    #half-mars {
+        width: 215%;
+        position: relative;
+        right: 267px;
+        margin-top: 4px;
+    }
+    .toggle-btn{
+        display: block;
+    }
+    #know-para {
+        font-size: 12px;
+        line-height: 18px;
+        width: 100%;
+    }
+    .section-heading-2 {
+        font-size: 26px;
+    }
+    .section-heading-1 {
+        font-size: 16px;
+    }
+    .know-item1, .know-item2, .know-item3{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .sub-know-item:first-child, .sub-know-item:nth-child(2), .sub-know-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .sub-know-item h3{
+        margin-top: 100px;
+    }
+    .sub-know-item:last-child h3{
+        padding-left: 15px;
+        width: 70%;
+    }
+    .sub-know-item:last-child p{
+        padding-left: 15px;
+    }
+    .sub-know-item:last-child {
+        background-position: -268px 0;
+        margin-bottom: 0;
+    }
+    .sub-know-item:last-child img {
+        position: static;
+    }
+    .know-btn {
+        transform: translateX(-38px);
+    }
+    .exploring p {
+        display: none;
+    }
+    .exploring h2 {
+        font-size: 30px;
+    }
+    .btn__white-circle {
+        top: 40%;
+        left: 40%;
+        width: 46px;
+        height: 46px;
+    }
+    .btn__circle {
+        height: 80%;
+        width: 80%;
+    }
+    .btn__text{
+        top: 40%;
+        font-size: 15px;
+    }
+    .explore-btn {
+        margin-top: 20px;
+        transform: translateX(-64px);
+    }
+    .exploring {
+        min-height: 100px;
+        margin-bottom: 80px;
+        padding-top: 63px;
+        padding-bottom: 21px;
+    }
+    .l-s-item:first-child {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 60px;
+    }
+    .l-s-item h3 {
+        font-size: 31px;
+        width: 100%;
+        text-align: center;
+    }
+    .l-s-item p{
+        font-size: 14px;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .l-s-item .btn-star {
+        margin-top: 30px;
+        margin-right: 25px;
+        font-size: 14px;
+    }
+    #ls-btn-2{
+        font-size: 14px;
+    }
+    .l-s-item:nth-child(2){
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .l-s-item:nth-child(2) img {
+        width: 335px;
+    }
+    .l-s-item:nth-child(3){
+        display: none;
+    }
+    .l-s-item:last-child{
+        display: block;
+    }
+    .l-s-item:nth-child(4){
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .l-s-item:nth-child(4) h3 {
+        margin: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .l-s-item:nth-child(4) p {
+        text-align: center;
+    }
+    .ls-icons{
+        width: 100%;
+        margin: 0;
+    }
+    .l-s-item:nth-child(4) img {
+        width: 149px;
+        margin-right: 0;
+        margin: 10px;
+    }
+    #duration {
+        transform: translateY(0);
+        animation-duration: 5s;
+    }
+    #range {
+        transform: translateY(0);
+        animation-duration: 5s;
+    }
+    .l-s-item:last-child img {
+        width: 360px;
+        margin-top: 45px;
+    }
+    .news-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .news-item h3 {
+        font-size: 22px;
+    }
+    .news-item button{
+        font-size: 12px;
+    }
+    .mission-icon-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .mission-logo h3 {
+        font-size: 18px;
+    }
+    .mission-logo h2{
+        font-size: 25px;
+    }
+    .mission-logo img {
+        width: 75px;
+    }
+    .mission-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .mission-item:first-child p {
+        width: 100%;
+    }
+    .mission-item:last-child p {
+        width: 100%;
+        margin: 0;
+        text-align: center;
+    }
+    #desktop-mars{
+        display: none;
+    }
+    #mobile-mars{
+        display: block;
+        width: 100%;
+        transform: translateX(0);
+        margin-top: 40px;
+    }
+    .mission-icon-item {
+        flex: 0 0 86%;
+        max-width: 86%;
+        margin: 0 auto;
+        margin-top: 50px;
+        padding: 17px 15px 27px;
+    }
+    #gravity {
+        width: 95px;
+    }
+    #temp {
+        width: 72px;
+    }
+    #monitor {
+        width: 76px;
+    }
+    .ms-icon-text h4 {
+        padding-top: 8px;
+    }    
+    .ms-icon-text h5{
+        font-size: 20px;
+    }
+    .back-top{
+        display: none;
+    }
+    @keyframes floating {
+        from { transform: translate(0,  0px); }
+        65%  { transform: translate(0, 45px); }
+        to   { transform: translate(0, -0px); }    
+    }
+    @keyframes floating-duration {
+        from { transform: translate(0,  0px); }
+        65%  { transform: translate(0, 50px); }
+        to   { transform: translate(0, 0px); }  
+    }
+    @keyframes floating-range {
+        from { transform: translate(0,  0px); }
+        65%  { transform: translate(0, 50px); }
+        to   { transform: translate(0, 0px); }  
+    }
+    .ls-icons img{
+        animation-duration: 5s;
+    }
+    .toggle-nav{
+        width: 80%;
+    }
+    #menu{
+        display: block;
+        text-align: right;
+        margin-top: -11px;
+    }
+    #menu.open .btm-bar {
+        transform-origin: 40px;
+        transform: translateX(-6px) translateY(5.5px) rotate(45deg);
+    }
+    #menu.open .top-bar {
+        transform-origin: 40px;
+        transform: translateX(-5px) translateY(-3px) rotate(-45deg);
+    }
+    .top-bar, .btm-bar {
+        width: 30px;
+        height: 2px;
+        left: 44px;
+    }
+    svg {
+        width: 47px;
+    }
+    .toggle-nav ul li a{
+        text-align: left;
+    }
+    .facts-item:first-child, .facts-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .facts-item:nth-child(2), .facts-item:nth-child(3) {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .facts-item:nth-child(2)::after { 
+        display: none;
+    }
+    .facts-item{
+        margin-bottom: 35px;
+    }
+    .facts-item:nth-child(2) h3, .facts-item:nth-child(3) h3{
+        padding-top: 0;
+    }
+    .facts-item:last-child{
+        text-align: right;
+    }
+    .facts-item:last-child img{
+        width: 100%;
+    }
+    .facts-item:nth-child(3)::after {
+        display: none;
+    }
+    .facts-item:nth-child(2){
+        margin-bottom: 70px;
+        text-align: center;
+        padding-right: 0;
+    }
+    .facts-item:nth-child(3) p:last-child{
+        margin-bottom: 10px;
+    }
+    .facts-item:nth-child(3){
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+    }
+    .facts-item:nth-child(3) h3{
+        padding-top: 17px;
+    }
+    .facts-item:nth-child(2) h3, .facts-item:nth-child(3) h3 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .facts-item:nth-child(2) p, .facts-item:nth-child(3) p{
+        font-size: 15px;
+    }
+    .subs-item:first-child, .subs-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .sub-text-item:first-child {
+        flex: 0 0 9%;
+        max-width: 9%;
+        margin-bottom: 20px;
+        padding-top: 0;
+    }
+    .sub-text-item:nth-child(2) {
+        flex: 0 0 90%;
+        max-width: 90%;
+    }
+    .sub-text-item:last-child{
+        display: none;
+    }
+    .subscribe{
+        padding-top: 30px;
+        margin-top: 40px;
+    }
+    .subs-input {
+        width: 87%;
+        margin-right: 9px;
+    }
+    .subs-item input{
+        font-size: 14px;
+        padding: 12px 45px;
+    }
+    .subs-item:last-child {
+        padding-top: 15px;
+    }
+    .sub-text-item:nth-child(2) h3 {
+        font-size: 19px;
+    }
+    .sub-text-item:last-child p{
+        font-size: 14px;
+    }
+    .sub-text-item:first-child img {
+        width: 24px;
+        margin-top: -4px;
+    }
+    #sub-telegram {
+        top: 15px;
+        width: 14px;
+    }
+    #subs-btn {
+        width: 28px;
+    }
+    .footer-item:first-child,.footer-item:nth-child(2),.footer-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+    .footer-item h3{
+        font-size: 19px;
+    }
+    .footer-item h4 {
+        font-size: 14px;
+        width: 90%;
+    }
+    .footer-item p{
+        font-size: 14px;
+    }
+    .footer-item .address{
+        font-size: 13px;
+    }
+    .footer-item img{
+        width: 37px;
+    }
+    .sub-footer{
+        margin-top: 50px;
+    }
+    .sub-footer-item:first-child, .sub-footer-item:nth-child(2), .sub-footer-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .sub-footer-item nav{
+        display: none;
+    }
+    .sub-footer-item:last-child i{
+        background: none;
+        border: 2px solid #fff;
+    }
+    .sub-footer-item:last-child i:hover{
+        background: rgba(255, 255, 255, 0.4);
+        border: 2px solid rgba(255, 255, 255, 0.3);
+    }
+    .sub-footer-item:first-child{
+        margin-bottom: 15px;
+    }
+    .sub-footer-item:nth-child(2){
+        margin-bottom: 50px;
+    }
+    .sub-footer-item:nth-child(2) ul li {
+        margin-right: 39px;
+    }
+    .sub-footer-item:nth-child(2) ul li a{
+        font-size: 15px;
+    }
+    .sub-footer-item:last-child i {
+        font-size: 16px;
+        margin-right: 33px;
+        padding: 14px 17px;
+    }
+    .footer-item:nth-child(2) p:last-child{
+        margin-bottom: 0;
+    }
+    /* ABOUT PAGE */
+    .mini-banner {
+        padding-bottom: 57px;
+        background-position: -379px 0;
+    }
+    .mini-banner h1 {
+        font-size: 32px;
+        padding-top: 5px;
+    }
+    /* OVERVIEW */
+    .overview-item:first-child,.overview-item:nth-child(2),.overview-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: left;
+    }
+    .overview-item:first-child {
+        padding-top: 20px;
+    }
+    .overview-item:nth-child(2) {
+        padding-top: 25px;
+    }
+    .overview-item:first-child img {
+        width: 135px;
+    }
+    .overview-item h3{
+        font-size: 41px;
+    }
+    .overview-item p {
+        width: 100%;
+        font-size: 15px;
+        line-height: 30px;
+    }
+    .overview-item:last-child img {
+        width: 546px;
+        transform: translate(-156px, 5px);
+    }
+    .mission-01-stat {
+        margin-top: 35px;
+    }
+    .mission-stat-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .mission-stat-item h5{
+        text-align: center;
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+    .mission-stat-item h4 {
+        font-size: 32px;
+    }
+    .overview-item h3::after{
+        display: none;
+    }
+    /* INDIA'S MOM COMPLETES 7 YEARS */
+    .news h2 {
+        font-size: 30px;
+    }
+    .news p {
+        width: 100%;
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+    /* IN DEPTH */
+    .depth-title-item:last-child{
+        display: none;
+    }
+    .depth-title-item:nth-child(2),.depth-title-item:first-child{
+        display: block;
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: left;
+    }
+    .depth-title-item h3::after{
+        display: none;
+    }
+    .depth-title-item:first-child img{
+        width: 150px;
+    }
+    .depth-title-item h3{
+        margin-top: 20px;
+        font-size: 41px;
+        margin-bottom: 8px;
+    }
+    .depth-title-item p{
+        width: 100%;
+        font-size: 15px;
+        line-height: 30px;
+    }
+    .depth-title-item p::after{
+        content: '';
+        display: block;
+        width: 100%;
+        height: 2px;
+        background-color: #fff;
+        margin-top: 30px;
+    }
+    .depth-item:first-child,.depth-item:nth-child(2),.depth-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .depth-item:first-child p {
+        margin-bottom: 25px;
+    }
+    .depth .my-row:last-child {
+        margin-top: 27px;
+    }
+    .depth-item:last-child {
+        margin-top: 245px;
+    }
+    #m-rover {
+        bottom: -187px;
+        width: 314px;
+        left: 8px;
+    }
+    .depth-text {
+        flex: 0 0 79%;
+        max-width: 79%;
+    }
+    .depth-icon {
+        flex: 0 0 19%;
+        max-width: 19%;
+        padding-left: 5px;
+    }
+    .depth-item p {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .depth{
+        margin-bottom: 0;
+    }
+    /* MISSION MONITOR */
+    .m-monitor-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .m-monitor-item h3{
+        font-size: 24px;
+    }
+    .m-monitor-item p{
+        font-size: 14px;
+    }
+    .mission-monitor{
+        padding-top: 134px;
+        margin-bottom: 5px;
+    }
+    /* HISTORY */
+    .history-title-item:first-child, .history-title-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding-left: 0;
+        margin-bottom: 10px;
+    }
+    .history-title-item:first-child img{
+        width: 134px;
+    }
+    .history-title-item h3::before{
+        display: none;
+    }
+    .history-title-item h3{
+        font-size: 41px;
+    }
+    .history-title{
+        margin-bottom: 5px;
+    }
+    .history-item:first-child,.history-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .history-item:first-child{
+        margin-bottom: 62px;
+    }
+    .history-item p {
+        width: 100%;
+        font-size: 14px;
+    }
+    .history-icon-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 25px;
+        padding: 15px 24px 15px;
+    }
+    .history-item .history-icon-text h4{
+        font-size: 19px;
+    }
+    .history-icon-text h5{
+        font-size: 17px;
+    }
+    .history-icon-item .history-icon-img img{
+        width: 30px;
+    }
+    .history-icon-text {
+        padding-left: 14px;
+        padding-top: 3px;
+    }
+    .history-icon-item:last-child{
+        margin-bottom: 10px;
+    }
+    .history-item .btn-star {
+        font-size: 14px;
+        margin-right: 23px;
+    }
+    .history-item .btn-star:last-child{
+        margin-right: 0;
+    }
+    .history-item:last-child img{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    #history-rocket{
+        position: static;
+    }
+    .history{
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    /* SPACECRAFT PAGE */
+    /* MOM SPACECRAFT */
+    .moms-item:first-child, .moms-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .moms-item:first-child{
+        text-align: center;
+    }
+    #space-right{
+        display: none;
+    }
+    .moms-item:first-child img {
+        width: 90%;
+    }
+    .moms-item:last-child{
+        padding-top: 60px;
+    }
+    .moms-item h3{
+        font-size: 33px;
+    }
+    .moms-item p{
+        font-size: 14px;
+    }
+    .play-btn img {
+        margin-top: -3px;
+    }
+    .moms-item .btn-star {
+        font-size: 14px;
+        margin-right: 32px;
+        margin-top: 8px;
+    }
+    .play-btn{
+        font-size: 14px;
+    }
+    .launch-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 25px;
+    }
+    .launch-item img{
+        margin-right: 2px;
+    }
+    .launch-item h3{
+        font-size: 24px;
+        padding-top: 0;
+        padding-left: 7px;
+    }
+    .launch-item p{
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .launch-item:last-child{
+        text-align: left;
+    }
+    #round-icon-desktop{
+        display: none;
+    }
+    #round-icon-mobile{
+        display: inline-block;
+    }
+    .launch-item:last-child img{
+        margin-left: 0;
+    }
+    .space-stat-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .space-stat-item h3{
+        font-size: 26px;
+    }
+    .mom-spacecraft .my-row:last-child {
+        margin-top: 25px;
+    }
+    .space-stat-item:nth-child(2) p, .space-stat-item:nth-child(3) p, .space-stat-item:last-child p{
+        margin-top: 10px;
+    }
+    .space-stat-item:nth-child(2) .space-stat-bar, .space-stat-item:nth-child(3) .space-stat-bar, .space-stat-item:last-child .space-stat-bar{
+        margin-top: 10px;
+    }
+    /* SPACECRAFT NEWS */
+    .space-news-item {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .space-news-item h3 {
+        font-size: 22px;
+        width: 88%;
+    }
+    .space-news-item button {
+        font-size: 12px;
+    }
+    /* SPACECRAFT TIMELINE */
+    .timeline-item:last-child{
+        flex: 0 0 86%;
+        max-width: 86%;
+    }
+    .timeline-item:nth-child(2){
+        flex: 0 0 8%;
+        max-width: 8%;
+    }
+    .timeline-item:first-child{
+        display: none;
+    }
+    .timeline-title h2 {
+        font-size: 30px;
+    }
+    .timeline-stick {
+        width: 20px;
+        height: 20px;
+    }
+    .timeline-stick::after{
+        width: 4px;
+    }
+    .timeline-date,.timeline-icon{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .timeline-item:nth-child(3) h3 {
+        font-size: 26px;
+    }
+    .timeline-item:nth-child(3) p{
+        font-size: 15px;
+    }
+    #approval {
+        width: 83px;
+        transform: translate(0px, 0px);
+    }
+    #first-t-date {
+        padding-top: 7px;
+    }
+    .timeline-stick::after {
+        height: 240px;
+    }
+    .timeline-stick:first-child {
+        margin-bottom: 208px;
+    }
+    #second-t-date {
+        margin-top: 5px;
+    }
+    #launch-date {
+        transform: translate(14px, -3px);
+        width: 81px;
+    }
+    .timeline-stick:nth-child(2) {
+        margin-bottom: 260px;
+    }
+    .timeline-stick:nth-child(2)::after {
+        height: 273px;
+    }
+    #third-t-date {
+        margin-top: 8px;
+    }
+    #into-mars {
+        transform: translate(6px, 3px);
+        width: 100px;
+    }
+    .timeline .my-row{
+        justify-content: space-between;
+        margin-top: 40px;
+    }
+    /* MISSION THAT INSPIRED MILLIONS */
+    .inspire {
+        padding-top: 0;
+        padding-bottom: 0px;
+        margin-top: 40px;
+        background-position: -510px -110px;
+    }
+    .inspire-text h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }    
+    .inspire-text p {
+        font-size: 14px;
+        width: 100%;
+    }
+    .inspire-item {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 35px;
+        text-align: center;
+    }
+    .inspire-item h4 {
+        width: 100%;
+        font-size: 19px;
+    }
+    .inspire-item button {
+        font-size: 16px;
+    }
+    /* SPACE DETAIL */
+    .space-detail-item:first-child,.space-detail-item:nth-child(2),.space-detail-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .space-detail-item h3 {
+        font-size: 31px;
+        line-height: 40px;
+    }
+    .space-detail-item h4 span {
+        margin-left: 0;
+    }
+    .space-detail-item p{
+        margin-bottom: 20px;
+    }
+    .space-detail{
+        padding-bottom: 0;
+    }
+
+    /* ABOUT PAGE */
+    /* ABOUT THE MISSION */
+    .about-m-item:first-child, .about-m-item:nth-child(2),.about-m-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 40px;
+    }
+    .about-title h2::before {
+        margin-right: 14px;
+        margin-bottom: -11px;
+    }
+    .about-title h2 {
+        font-size: 28px;
+    }
+    .about-m-item:nth-child(2) img {
+        right: 83px;
+        top: 263px;
+        width: 210px;
+        opacity: 0.5;
+    }
+    .about-m-item h3{
+        font-size: 25px;
+    }
+    .about-m-item p{
+        font-size: 13px;
+    }
+    .about-btn{
+        margin-top: 0;
+    }
+    .about-btn button:first-child,.about-btn button:last-child {
+        padding: 11px 22px;
+        font-size: 13px;
+    }
+    .about-btn button:first-child{
+        margin-right:59px;
+    }
+    /* WHAT THE WORLD SAID */
+    .testi-item:first-child, .testi-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .testi-item:first-child{
+        margin-bottom: 30px;
+    }
+    .testi-controls{
+        width: 100%;
+        text-align: center;
+    }
+    .testi-item h3 {
+        font-size: 27px;
+    }
+    .testi-item p{
+        font-size: 13px;
+    }
+    .testi-item:first-child img{
+        font-size: 22px;
+    }
+    .review h4{
+        font-size: 16px;
+    }
+    .review h5{
+        font-size: 13px;
+    }
+    .review img {
+        right: 19px;
+        bottom: -23px;
+        width: 68px;
+    }
+    .testimonials{
+        padding-top: 90px;
+        padding-bottom: 100px;
+    }
+    /* THE TEAM BEHIND MANGALYAAN */
+    .team-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+    .team-title h2{
+        font-size: 27px;
+    }
+    #left-arrow,#right-arrow{
+        display: none;
+    }
+    /* ROAD TO THE RED PLANET */
+    .red-img img {
+        width: 100%;
+    }
+    .red-item:first-child,.red-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .road-to-red .my-row {
+        transform: translateY(0);
+    }
+    .red-item:first-child h3{
+        font-size: 31px;
+    }
+    .red-item p {
+        width: 100%;
+        font-size: 14px;
+    }
+    .road-to-red-stats{
+        width: 100%;
+    }
+    .red-stat:first-child,.red-stat:nth-child(2){
+        flex: 0 0 43%;
+        max-width: 43%;
+    }
+    .red-stat:last-child{
+        flex: 0 0 43%;
+        max-width: 43%;
+        margin: 0 auto;
+        margin-top: 10px;
+    }
+    .red-stat h4 {
+        font-size: 39px;
+    }
+    .red-item h5{
+        font-size: 13px;
+    }
+    .red-item:last-child h3::after{
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .red-item:last-child p{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .red-item:last-child h3{
+        font-size: 36px;
+    }
+    .road-to-red{
+        padding-bottom: 0;
+    }
+    /* MEDIA PAGE */
+    /* GALLERY */
+    .gallery-item:first-child,.gallery-item:nth-child(2),.gallery-item:nth-child(3),.gallery-item:last-child{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 40px;
+    }
+    .gallery-item:first-child, .gallery-item:nth-child(3){
+        height: auto;
+    }
+    .sub-gallery-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .sub-gallery2-item:first-child, .sub-gallery2-item:last-child,.sub-gallery2-item:nth-child(2), .sub-gallery2-item:nth-child(3){
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 40px;
+    }
+    .gallery-item:nth-child(2){
+        margin-bottom: 10px;
+    }
+    .gallery-title h3 {
+        font-size: 32px;
+    }
+    .gallery-title p{
+        font-size: 14px;
+    }
+    .gallery {
+        padding-bottom: 0px;
+        margin-bottom: 35px;
+    }
+}
+
+@media screen and (max-width:360px){
+    .banner-text h1 {
+        font-size: 28px;
+        line-height: 37px;
+    }
+    .section-heading-1 {
+        font-size: 16px;
+    }
+    .section-heading-2 {
+        font-size: 25px;
+    }
+    .exploring {
+        padding-top: 55px;
+        padding-bottom: 20px;
+    }
+    .exploring h2 {
+        font-size: 27px;
+    }
+    .exploring p {
+        font-size: 15px;
+        letter-spacing: 1px;
+    }
+    .l-s-item h3 {
+        font-size: 29px;
+        width: 100%;
+    }
+    .l-s-item .btn-star{
+        margin-right: 31px;
+        font-size: 13px;
+    }
+    #ls-btn-2 {
+        font-size: 13px;
+    }
+    .l-s-item:nth-child(4) img {
+        width: 143px;
+    }
+    .l-s-item:last-child img {
+        width: 355px;
+        margin-top: 24px;
+        transform: translateX(-5px);
+    }
+    .mission-logo h3 {
+        font-size: 16px;
+    }
+    .mission-logo h2 {
+        font-size: 24px;
+    }
+    .mission-item p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .mission-icon-item{
+        flex: 0 0 81%;
+        max-width: 81%;
+    }
+    .ms-icon-text h4{
+        font-size: 25px;
+    }
+    #gravity {
+        width: 92px;
+    }
+    #temp {
+        width: 68px;
+    }
+    #monitor {
+        width: 70px;
+    }
+    @keyframes floating {
+        from { transform: translate(0,  0px); }
+        65%  { transform: translate(0, 35px); }
+        to   { transform: translate(0, -0px); }    
+    }
+    @keyframes floating-duration {
+        from { transform: translate(0,  0px); }
+        65%  { transform: translate(0, 40px); }
+        to   { transform: translate(0, 0px); }  
+    }
+    @keyframes floating-range {
+        from { transform: translate(0,  0px); }
+        65%  { transform: translate(0, 35px); }
+        to   { transform: translate(0, 0px); }  
+    }
+    .facts-item:nth-child(2)::after {
+        height: 1040px;
+        top: -453px;
+    }
+    .facts-item:nth-child(3)::after {
+        height: 1030px;
+        top: -21px;
+    }
+    .sub-text-item:nth-child(2) h3 {
+        font-size: 20px;
+    }
+    .sub-text-item:last-child p {
+        font-size: 13px;
+    }
+    .subs-item:last-child {
+        padding-top: 11px;
+    }
+    .subs-item input {
+        font-size: 13px;
+        padding: 11px 45px;
+    }
+    .sub-text-item:nth-child(2) {
+        flex: 0 0 89%;
+        max-width: 89%;
+    }
+    .sub-footer-item:nth-child(2) ul li {
+        margin-right: 26px;
+    }
+    .footer-item h3 {
+        font-size: 18px;
+    }
+    /* ABOUT PAGE */
+    /* OVERVIEW */
+    .overview-item:first-child img {
+        width: 130px;
+    }
+    .overview-item h3 {
+        font-size: 37px;
+    }
+    .overview-item:last-child img {
+        width: 520px;
+        transform: translate(-146px, 5px);
+    }
+    /* INDIA'S MOM COMPLETES 7 YEARS */
+    .news h2 {
+        font-size: 28px;
+    }
+    .news p {
+        font-size: 16px;
+    }
+    /* IN DEPTH */
+    .depth-icon {
+        padding-left: 5px;
+    }
+    .depth-icon img{
+        width: 46px;
+    }
+    .depth-item p{
+        font-size: 13px;
+    }
+    /* MONITOR ITEM */
+    .m-monitor-item h3 {
+        font-size: 23px;
+    }
+    .m-monitor-item p {
+        font-size: 13px;
+        line-height: 28px;
+    }
+    /* HISTORY */
+    .history-item p{
+        font-size: 13px;
+    }
+    .history-item .history-icon-text h4 {
+        font-size: 17px;
+    }
+    .history-icon-text h5 {
+        font-size: 15px;
+    }
+    .history-icon-item .history-icon-img img {
+        width: 26px;
+    }
+    .history-item .btn-star {
+        font-size: 13px;
+        margin-right: 21px;
+    }
+    /* SPACECRAFT PAGE */
+    /* MOM SPACECRAFT */
+    .moms-item:first-child img {
+        width: 96%;
+    }
+    .moms-item:last-child {
+        padding-top: 50px;
+    }
+    .moms-item h3 {
+        font-size: 32px;
+    }
+    .moms-item .btn-star {
+        margin-right: 17px;
+    }
+    .launch-item img {
+        width: 30px;
+        margin-top: 5px;
+    }
+    .launch-item h3{
+        font-size: 22px;
+    }
+    .launch-item p{
+        font-size: 13px;
+    }
+    .space-stat-item h3 {
+        font-size: 25px;
+    }
+    .space-stat-item:first-child .space-stat-bar{
+        height: 35px;
+    }
+    /* SPACECRAFT TIMELINE */
+    #approval {
+        width: 75px;
+        transform: translate(0px, 6px);
+    }
+    #launch-date {
+        transform: translate(7px, 5px);
+        width: 69px;
+    }
+    #into-mars {
+        transform: translate(0px, 8px);
+        width: 90px;
+    }
+    .timeline-item:nth-child(3) h3 {
+        font-size: 25px;
+    }
+    .timeline-item:nth-child(3) p {
+        font-size: 14px;
+    }
+    #third-t-date {
+        margin-top: 14px;
+    }
+    #first-t-date {
+        padding-top: 10px;
+    }
+    .timeline-title h2 {
+        font-size: 25px;
+    }
+    /* MISSION THAT INSPIRED MILLIONS */
+    .inspire-item h4 {
+        font-size: 17px;
+    }
+    .inspire-item button {
+        font-size: 15px;
+    }
+    /* SPACECRAFT DETAIL */
+    .space-detail-item h3 {
+        font-size: 28px;
+    }
+
+    /* ABOUT PAGE */
+    /* ABOUT THE MISSION */
+    .about-m-item h3 {
+        font-size: 23px;
+    }
+    .about-btn button:first-child, .about-btn button:last-child {
+        padding: 12px 23px;
+        font-size: 12px;
+    }
+    .about-btn button:first-child {
+        margin-right: 33px;
+    }
+    /* WHAT THE WORLD SAID */
+    .testi-item h3 {
+        font-size: 26px;
+    }
+    .review img {
+        right: 23px;
+        bottom: -21px;
+        width: 65px;
+    }
+}
